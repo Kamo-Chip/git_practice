@@ -1,1 +1,2 @@
-this is my second try
+this is my second attempt
+GIT is fun
